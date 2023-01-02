@@ -85,7 +85,7 @@ while end_of_game:
             exec('{}=Label(root,bg="#FFEFDB",image={})'.format(p1[0],p1[1]))
 
     
-        c1.place(x = 300,y =- 50)
+        c1.place(x = 300,y =- 30)
     
     
         def close():
